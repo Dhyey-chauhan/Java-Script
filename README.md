@@ -12,3 +12,6 @@ Learned JavaScript object literals for structuring and organizing data effective
 
 # part - 6
 racticed JavaScript functions with parameters, return values, and reusability. Focused on modular coding for cleaner web development.
+
+# part - 7
+Explored this keyword, arrow functions, and error handling with try-catch. Covered miscellaneous JavaScript concepts for deeper understanding.
