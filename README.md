@@ -7,3 +7,5 @@ Practiced JavaScript fundamentals including console logging, operators, conditio
 # part-2,3,4
 Explored JavaScript strings and their built-in methods, enhancing text manipulation skills. Practiced loops to implement control flow and iterative problem-solving in web development.
 
+# part - 5
+Learned JavaScript object literals for structuring and organizing data effectively. Gained hands-on practice in defining, accessing, and manipulating objects for real-world web applications.
