@@ -9,3 +9,6 @@ Explored JavaScript strings and their built-in methods, enhancing text manipulat
 
 # part - 5
 Learned JavaScript object literals for structuring and organizing data effectively. Gained hands-on practice in defining, accessing, and manipulating objects for real-world web applications.
+
+# part - 6
+racticed JavaScript functions with parameters, return values, and reusability. Focused on modular coding for cleaner web development.
