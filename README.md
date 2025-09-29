@@ -15,3 +15,6 @@ racticed JavaScript functions with parameters, return values, and reusability. F
 
 # part - 7
 Explored this keyword, arrow functions, and error handling with try-catch. Covered miscellaneous JavaScript concepts for deeper understanding.
+
+# part - 8
+Explored different types of JavaScript methods across strings, arrays, objects, and math utilities. Strengthened problem-solving skills by applying built-in functions for efficient coding.
