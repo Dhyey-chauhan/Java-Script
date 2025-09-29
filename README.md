@@ -18,3 +18,6 @@ Explored this keyword, arrow functions, and error handling with try-catch. Cover
 
 # part - 8
 Explored different types of JavaScript methods across strings, arrays, objects, and math utilities. Strengthened problem-solving skills by applying built-in functions for efficient coding.
+
+# part - 9
+Learned DOM events and their handling in JavaScript. Practiced event listeners to create dynamic and interactive web pages.
