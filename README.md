@@ -21,3 +21,6 @@ Explored different types of JavaScript methods across strings, arrays, objects, 
 
 # part - 9
 Learned DOM events and their handling in JavaScript. Practiced event listeners to create dynamic and interactive web pages.
+
+# part - 10
+
