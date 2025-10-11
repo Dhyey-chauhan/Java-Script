@@ -23,4 +23,4 @@ Explored different types of JavaScript methods across strings, arrays, objects, 
 Learned DOM events and their handling in JavaScript. Practiced event listeners to create dynamic and interactive web pages.
 
 # part - 10
-
+Explored the JavaScript call stack and its execution flow. Understood how functions are invoked, managed, and executed in runtime.
